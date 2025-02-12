@@ -6,14 +6,14 @@ import java.io.IOException;
 import java.util.Date;
 
 public class MovimentacaoProduto {
-
+  
     // Logger para registrar as ações de exclusão e adição de produtos.
-    private static final Logger log = Logger.getLogger(ProdutoGestao.class.getName());
-    public void logAutomatic(int numLog){
+    private final Logger log = Logger.getLogger(MovimentacaoProduto.class.getName());
+    public void logAutomatic(String corpo){
         
-        switch (numLog) {
+        
             
-            case 1:
+           
             try {
                 // Cria o diretório "logs" se ele não existir
                 java.io.File logDir = new java.io.File("logs");
@@ -30,18 +30,10 @@ public class MovimentacaoProduto {
                 System.err.println("Erro ao configurar o logger: " + e.getMessage());
             }
             
-                log.info("Produto adicionado em " + new Date());
-                System.out.println("Produto adicionado com sucesso!");
-                break;
-        
-            case 2:
-            case 3:
-            case 4:
-            default:
-            log.warning("Nao foi possivel acessar o switch case.\n");
-            System.out.println("\nNao haS casos correspondente. Saindo...\n");
-
-                break;
+                log.info("ação realizada: " + new Date());
+                System.out.println(corpo);
+              
+           
         }
         
 
@@ -50,7 +42,7 @@ public class MovimentacaoProduto {
     
 
     
-}
+
 
 
 

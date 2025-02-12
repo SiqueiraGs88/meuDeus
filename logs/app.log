@@ -1,0 +1,74 @@
+fev. 12, 2025 4:12:11 PM FeedbackCliente escolherAcao
+INFO: Escolha o tipo de feedback que você deseja realizar:
+1 - Elogios.
+2 - Reclamações.
+3 - Sugestões.
+fev. 12, 2025 4:12:32 PM FeedbackCliente escritorDeTexto
+INFO: Digite o título do seu feedback.
+fev. 12, 2025 4:12:39 PM FeedbackCliente escritorDeTexto
+INFO: Digite o texto do seu feedback.
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== parabenizar os funcion�rios da empresa ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: Os funcionarios estao de parabens ao otimo empenho nas masi diversas atividades da empresa
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== null ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: null
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== lindoo ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: guilherme e lindoo demais
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== null ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: null
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== ah ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: ah
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== null ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: null
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== poo ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: poo
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== null ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: null
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== Melhoria ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: melhore na comunicacao.
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 	=== null ===
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: null
+fev. 12, 2025 4:13:19 PM FeedbackCliente lerFeedback
+INFO: 
+fev. 12, 2025 4:19:05 PM FeedbackCliente escolherAcao
+INFO: Escolha o tipo de feedback que você deseja realizar:
+1 - Elogios.
+2 - Reclamações.
+3 - Sugestões.
