@@ -112,7 +112,7 @@ public class RelatorioDeVendas {
         try (Scanner leitor = new Scanner(new File(caminhoArquivo))) { // abre o arquivo para leitura, assim como seus semelhantes.
             while (leitor.hasNextLine()) { // verificação se há linhas para leitura.
                 String linha = leitor.nextLine();
-                if (linha.startsWith("CÓDIGO: " + codigoAlvo)) { // define que encontrou o começo do relatório. 
+                if (linha.equals("CÓDIGO: " + codigoAlvo)) { // define que encontrou o começo do relatório. 
                     encontrado = true;
                     while (leitor.hasNextLine() && !leitor.nextLine().startsWith("---")) {} // pula todas as lin has até encontrar '----'.
                 } else {
